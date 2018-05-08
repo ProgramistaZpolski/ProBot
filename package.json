@@ -6,6 +6,8 @@
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^1.12"
+  "scripts": {
+    "start": "node bot.js"
   },
   "devDependencies": {},
   "scripts": {
